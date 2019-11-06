@@ -1,0 +1,5 @@
+commit 3be5503c68662a51f3ce86006a0120c842413f08
+Author: Christopher Joel <cdata@google.com>
+Date:   Wed Nov 6 10:50:46 2019 -0800
+
+    Declare interfaces to prevent renaming (#877)
